@@ -43,6 +43,7 @@ body {
   background-color: #fff;
   max-width: 1440px;
   border-radius: 6px;
+  height: 100vh;
 }
 
 .hero__header {
